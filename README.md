@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabrielBG007
-- 👀 I’m interested in becoming a Data Analyst. Apart from that, I'm a big fan of soccer and F1 and I also love going to the gym and hiking.
-- 🌱 I’m currently learning about data analytics and its impact on our society. I'm also trying to become a profitable trader.
+- 👀 I’m interested in data analysis. Apart from that, I'm a big fan of soccer and F1 and I also love going to the gym and hiking.
+- 🌱 I’m currently learning about data analytics. 
 - 💞️ I’m looking to collaborate on any kind of project to start getting experience and learn more about coding.
 - 📫 How to reach me : gabrielfutsal3@gmail.com
 
